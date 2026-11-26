@@ -30,4 +30,11 @@ print("your score is " + str(score)) #this will print the value of score in the 
 print(f"your score is {score}") #this will print the value of score in the string
 
 print(f"your score is {score} and your bmi is {bmi}")
-#this will print the value of score and bmi in the strin
+#this will print the value of score and bmi in the string
+
+#quiz
+print(6 + 4 / 2 - (1 * 2))
+#ans - 6.0
+a = int("5") / int(2.7)
+print(a)
+#ans - 2.5
