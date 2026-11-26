@@ -11,3 +11,23 @@ weight = 84
 bmi = weight / (height ** 2)
 
 print(bmi)
+
+print(int(bmi)) #this will print the integer value of bmi
+print(round(bmi)) #this will print the rounded value of bmi
+print(round(bmi, 2)) #this will print the rounded value of bmi to 2 decimal places
+bmi = round(bmi)
+
+
+
+#operators
+#assignment operator - means assigning a value to a variable
+score = 0
+score += 1 #this is the same as score = score + 1
+print(score)
+
+#f-strings - means formatting strings
+print("your score is " + str(score)) #this will print the value of score in the string
+print(f"your score is {score}") #this will print the value of score in the string
+
+print(f"your score is {score} and your bmi is {bmi}")
+#this will print the value of score and bmi in the strin
