@@ -18,7 +18,7 @@ This repository documents my progress as I learn Python through daily coding exe
 | Day | Project | Status |
 |---|---|---|
 | Day 01 | Band Name Generator | Completed |
-| Day 02 | Tip Calculator | Upcoming |
+| Day 02 | Tip Calculator | Completed |
 | Day 03 | Treasure Island | Upcoming |
 
 ## Tech Stack
