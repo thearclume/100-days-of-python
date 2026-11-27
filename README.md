@@ -21,6 +21,7 @@ This repository documents my progress as I learn Python through daily coding exe
 | Day 02 | Tip Calculator | Completed |
 | Day 03 | Treasure Island | Completed |
 | Day 04 | Rock Paper scissors | Completed |
+| Day 05 | Password Generator | Completed |
 
 ## Tech Stack
 
