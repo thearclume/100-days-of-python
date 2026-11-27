@@ -1,1 +1,1 @@
-my_favorate_number = 9
+my_favorite_number = 9
