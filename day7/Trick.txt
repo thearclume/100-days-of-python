@@ -1,0 +1,21 @@
+#Breaking the problem into a flowchart
+
+Start
+  ↓
+Choose a random word
+  ↓
+Display blanks
+  ↓
+Ask player to guess a letter
+  ↓
+Is the letter in the word?
+  ├── Yes → Reveal the letter
+  └── No  → Reduce lives
+  ↓
+Has the player guessed the word?
+  ├── Yes → You Win
+  └── No
+        ↓
+Are lives remaining?
+  ├── Yes → Continue guessing
+  └── No  → Game Over
